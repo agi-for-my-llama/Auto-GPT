@@ -6,6 +6,7 @@ package-lock.json
 *.pyc
 auto_gpt_workspace/*
 *.mpeg
+env
 .env
 outputs/*
 ai_settings.yaml
